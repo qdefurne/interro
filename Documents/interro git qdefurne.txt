@@ -21,7 +21,7 @@ index
 git remote add DEP https://github.com/qdefurne/monDepotDistant.git
 
 6)
-git clone DEP https://github.com/qdefurne/monDepotDistant.git
+git clone https://github.com/qdefurne/monDepotDistant.git
 
 7)
 Reponse 2 et 3
